@@ -1,0 +1,10 @@
+.navi{
+    width: 250px;
+    height: 100vh;
+    background-color: black;
+    color: blanchedalmond;
+    
+}
+.action-icon{
+    cursor: pointer
+}
